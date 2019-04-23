@@ -1,0 +1,13 @@
+{
+    "name": "fbGraph",
+    "actions": [
+        "post"
+    ],
+    "when": {
+        "%%args.url.host": {
+            "%in": [
+                "graph.facebook.com"
+            ]
+        }
+    }
+}

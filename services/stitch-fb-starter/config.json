@@ -1,0 +1,9 @@
+{
+    "name": "stitch-fb-starter",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "StitchFbStarter",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    }
+}
